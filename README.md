@@ -1,5 +1,6 @@
 # Lab GitHub Flow Demo
 
+
 Este repositório foi construído como um ambiente de testes e simulação prática para a apresentação universitária sobre **Engenharia de Software, GitHub Flow, Code Review e Integração Contínua**.
 
 ---
@@ -26,3 +27,6 @@ Exemplo: `feat: adiciona validacao no formulario de login`
 5. **Pull Request:** Quando pronto, altere para **Ready for Review**, preencha o template de PR e vincule a Issue (`Closes #X`).
 6. **Code Review & CI:** Aguarde a aprovação do reviewer e o sucesso dos testes do GitHub Actions.
 7. **Merge:** Realize o merge conforme a estratégia definida pela equipe (Squash, Merge Commit ou Rebase).
+
+
+- Teste de fluxo via VS Code.
