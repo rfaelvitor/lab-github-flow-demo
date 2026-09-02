@@ -1,0 +1,11 @@
+{
+  "name": "lab-github-flow-demo",
+  "version": "1.0.0",
+  "description": "Ambiente de testes para apresentação sobre GitHub Flow",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node src/main.test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
