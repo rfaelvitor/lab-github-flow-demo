@@ -30,3 +30,4 @@ Exemplo: `feat: adiciona validacao no formulario de login`
 
 
 - Teste de fluxo via VS Code.
+Modo escuro
